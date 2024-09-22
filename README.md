@@ -22,6 +22,7 @@ I and D represent the indices around the pivot element X, which helps in partiti
 ![image](https://github.com/user-attachments/assets/c8453caf-178c-4053-bab7-fead57b02399)
 ![image](https://github.com/user-attachments/assets/07eb8b89-d8c1-4033-b40d-f13314ca135e)
 
+## Network Delay Time
 
 # Commit to GitHub
 
