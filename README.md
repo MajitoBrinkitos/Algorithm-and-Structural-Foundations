@@ -1,5 +1,5 @@
 # Algorithm-and-Structural-Foundations
-Algorithm and Structural Foundations
+Solving two LeetCode problems using JavaScript
 
 ## Sort an Array
 
