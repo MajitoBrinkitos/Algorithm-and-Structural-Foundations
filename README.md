@@ -23,6 +23,6 @@ I and D represent the indices around the pivot element X, which helps in partiti
 
 # Commit to GitHub
 
-open your terminal
-run https://github.com/MajitoBrinkitos/Algorithm-and-Structural-Foundations.git
-run code . to open the workspace in VS Code
+1. open your terminal
+2. run `https://github.com/MajitoBrinkitos/Algorithm-and-Structural-Foundations.git`
+3. run `code .` to open the workspace in VS Code
