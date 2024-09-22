@@ -21,4 +21,8 @@ I and D represent the indices around the pivot element X, which helps in partiti
 ### leetcode image
 ![image](https://github.com/user-attachments/assets/c8453caf-178c-4053-bab7-fead57b02399)
 
-### 
+# Commit to GitHub
+
+open your terminal
+run https://github.com/MajitoBrinkitos/Algorithm-and-Structural-Foundations.git
+run code . to open the workspace in VS Code
