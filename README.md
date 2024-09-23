@@ -28,6 +28,7 @@ I and D represent the indices around the pivot element X, which helps in partiti
 -This code helps to determine the time it takes for all the nodes to receive a signal sent from a node
 array.
 
+-To keep track of the minimum time required to reach modos  node.
 
 ![image](https://github.com/user-attachments/assets/79d0ef94-a502-47c7-951d-0b16a808942a)
 
