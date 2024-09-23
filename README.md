@@ -24,6 +24,11 @@ I and D represent the indices around the pivot element X, which helps in partiti
 
 ## Network Delay Time
 
+### Purpose
+-This code helps to determine the time it takes for all the nodes to receive a signal sent from a node
+arrayL:: 
+
+
 # Commit to GitHub
 
 1. open your terminal
